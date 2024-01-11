@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.27)  11 JAN 2024 17:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.27)  11 JAN 2024 20:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -213,12 +213,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--109
 
  []
 
-[4] (./notes.aux) ) 
+
+Overfull \hbox (1.33206pt too wide) in paragraph at lines 125--136
+\OT1/cmr/m/n/12 fe-nen Per-son, die den Schutz per-so-n-en-be-zo-gener Daten er
+-fordern, ^^?uberwiegen,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--136
+
+ []
+
+[4]
+Overfull \hbox (19.88603pt too wide) in paragraph at lines 140--141
+\OT1/cmr/m/n/12 Stiftung, Vere-ini-gung oder son-stige Or-gan-i-sa-tion ohne Ge
+win-nerzielungsab-
+ []
+
+
+Overfull \hbox (35.79004pt too wide) in paragraph at lines 151--152
+[]\OT1/cmr/m/n/12 Arbeitsmedizin oder f^^?ur die Beurteilung der Ar-beitsf^^?ah
+igkeit von Besch^^?aftigten 
+ []
+
+
+Overfull \hbox (36.75394pt too wide) in paragraph at lines 152--155
+[]\OT1/cmr/m/n/12 Die medi-zinis-che Di-ag-nos-tik, die Ver-sorgung oder Be-han
+d-lung im Gesundheits-
+ []
+
+
+Overfull \hbox (7.22644pt too wide) in paragraph at lines 158--159
+[]\OT1/cmr/m/n/12 Schutz vor schw-er-wiegen-den grenz^^?uberschreitenden Gesund
+-heits-ge-fahren 
+ []
+
+
+Overfull \hbox (16.57635pt too wide) in paragraph at lines 159--160
+[]\OT1/cmr/m/n/12 Gew^^?ahrleistung ho-her Qualit^^?ats- und Sicher-heits-stan-
+dards bei der Gesund-
+ []
+
+[5] (./notes.aux) ) 
 Here is how much of TeX's memory you used:
- 1614 strings out of 480247
- 22672 string characters out of 5896150
+ 1615 strings out of 480247
+ 22680 string characters out of 5896150
  310899 words of memory out of 5000000
- 19611 multiletter control sequences out of 15000+600000
+ 19612 multiletter control sequences out of 15000+600000
  471154 words of font info for 34 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  54i,5n,62p,296b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -227,10 +273,10 @@ n/ec/tcrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
 >
-Output written on notes.pdf (4 pages, 54892 bytes).
+Output written on notes.pdf (5 pages, 57401 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 40 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
